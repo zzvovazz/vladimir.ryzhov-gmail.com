@@ -29,11 +29,12 @@
     <DebugSymbols>true</DebugSymbols>
   </PropertyGroup>
   <ItemGroup>
+    <Content Include="src\plugins\vuetify.js" />
+    <Content Include="src\store\index.js" />
     <Content Include="sync.js" />
     <Content Include="public\favicon.ico" />
     <Content Include="public\index.html" />
     <Content Include="src\App.vue" />
-    <Content Include="src\components\Home.vue" />
     <Content Include="package.json" />
     <Content Include="api.js" />
     <Content Include="user.js" />
@@ -45,6 +46,8 @@
     <Folder Include="src\" />
     <Folder Include="src\assets\" />
     <Folder Include="src\components\" />
+    <Folder Include="src\plugins\" />
+    <Folder Include="src\store\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="src\main.js" />

@@ -27,7 +27,6 @@
         },
 
         data: () => ({
-            descriptionLimit: 60,
             isLoading: false,
             search: null,
             model: null,
