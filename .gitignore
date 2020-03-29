@@ -262,6 +262,7 @@ FakesAssemblies/
 .ntvs_analysis.dat
 node_modules/
 dist/
+users.db
 
 # Visual Studio 6 build log
 *.plg
